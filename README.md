@@ -13,6 +13,7 @@ Jawaban :
 Dengan kunci “TEKNIK INFORMATIKA”
 
 kodingannya 
+~~~
 # Playfair Cipher Encryption
 
 def generate_key_matrix(key):
@@ -103,6 +104,8 @@ print("Plaintext 2:", plaintext2)
 print("Encrypted 2:", encrypted2)
 print("Plaintext 3:", plaintext3)
 print("Encrypted 3:", encrypted3)
+
+~~~
 
 ![Screenshot 2024-10-15 085338](https://github.com/user-attachments/assets/ac70c7ca-f23e-420b-b779-a2cfe7284391)
 
